@@ -1,0 +1,12 @@
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\bin\Debug\netcoreapp2.1\RetailProduct.Interfaces.deps.json
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\bin\Debug\netcoreapp2.1\RetailProduct.Interfaces.dll
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\bin\Debug\netcoreapp2.1\RetailProduct.Interfaces.pdb
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\bin\Debug\netcoreapp2.1\RetailProduct.Models.dll
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\bin\Debug\netcoreapp2.1\RetailProduct.Models.pdb
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.csprojAssemblyReference.cache
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.AssemblyInfoInputs.cache
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.AssemblyInfo.cs
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.csproj.CopyComplete
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.dll
+C:\Users\CHRISE\Desktop\RetailProduct\RetailProduct.Interfaces\obj\Debug\netcoreapp2.1\RetailProduct.Interfaces.pdb
